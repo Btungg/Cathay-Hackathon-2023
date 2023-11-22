@@ -1,4 +1,4 @@
-The following is our solution for Cathay Hackathon 2023, I served as the product manager in our team of 5.
+The following is our solution for Cathay Hackathon 2023, I served as the UI/UX designer in our team of 5.
 
 ### **A Quick Glimpse of Our Work:**
 
