@@ -4,6 +4,9 @@ The following is our solution for Cathay Hackathon 2023, I served as the UI/UX d
 
 ![T50_onepager](https://github.com/angusf777/Cathay-Hackathon-2023/assets/114798767/2917164c-d6b2-4481-b0b6-1b57d364a1b2)
 
+### **Link to Our Prototype:**
+https://www.figma.com/proto/6j5vWY1Higsk4fLRzuhsGi?node-id=244-4073&starting-point-node-id=244:4073&locale=en
+
 ### **Link to Our UXUI Design (Figma):**
 
 https://www.figma.com/file/6j5vWY1Higsk4fLRzuhsGi/Cathay-Hackathon?type=design&node-id=0%3A1&mode=design&t=Rx2HPONfhWj6BORx-1
